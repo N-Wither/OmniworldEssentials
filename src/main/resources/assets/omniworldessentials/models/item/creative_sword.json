@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "omniworldessentials:items/creative_sword"
+  }
+}

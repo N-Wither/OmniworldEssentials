@@ -1,0 +1,282 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StrawberryCandy",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_candy"
+    },
+    {
+      "name": "OmniworldEssentials",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "omniworld_essentials"
+    },
+    {
+      "name": "StrawberryCandyEaten",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_candy_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StrawberryCandyCraft",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_candy_craft"
+    },
+    {
+      "name": "AzuriumIngot",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_ingot"
+    },
+    {
+      "name": "AzuriumBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_block"
+    },
+    {
+      "name": "MoltenAzurium",
+      "type": "fluid",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_azurium",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "AzuriumBlockCraft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_block_craft"
+    },
+    {
+      "name": "AzuriumNugget",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_nugget"
+    },
+    {
+      "name": "AzuriumPlate",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_plate"
+    },
+    {
+      "name": "AzuriumGear",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_gear"
+    },
+    {
+      "name": "AzuriumRod",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_rod"
+    },
+    {
+      "name": "AzuriumIngotCraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_ingot_craft"
+    },
+    {
+      "name": "AzuriumGearCrafting",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_gear_crafting"
+    },
+    {
+      "name": "AzuriumOre",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_ore"
+    },
+    {
+      "name": "AzuriumRodCraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_rod_craft"
+    },
+    {
+      "name": "AzuriumNuggetCraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_nugget_craft"
+    },
+    {
+      "name": "AzuriumIngotSmelt",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_ingot_smelt"
+    },
+    {
+      "name": "CreativeSword",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_sword"
+    },
+    {
+      "name": "AzuriumChunk",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "azurium_chunk"
+    },
+    {
+      "name": "SunnyDollUsed",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunny_doll_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SunnyDoll",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunny_doll"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "fluid.omniworldessentials.molten_azurium": "Molten Azurium",
+      "item.omniworldessentials.strawberry_candy": "Strawberry Candy",
+      "block.omniworldessentials.azurium_block": "Azurium Block",
+      "item.omniworldessentials.azurium_plate": "Azurium Plate",
+      "block.omniworldessentials.molten_azurium": "Molten Azurium",
+      "itemGroup.tabomniworld_essentials": "Omniworld Essentials",
+      "item.omniworldessentials.azurium_gear": "Azurium Gear",
+      "item.omniworldessentials.creative_sword": "Creative Sword",
+      "block.omniworldessentials.azurium_ore": "Azurium Ore",
+      "item.omniworldessentials.sunny_doll": "Sunny Doll",
+      "item.omniworldessentials.molten_azurium_bucket": "Molten Azurium Bucket",
+      "item.omniworldessentials.azurium_chunk": "Azurium Chunk",
+      "item.omniworldessentials.azurium_nugget": "Azurium Nugget",
+      "item.omniworldessentials.azurium_rod": "Azurium Rod",
+      "item.omniworldessentials.azurium_ingot": "Azurium Ingot"
+    },
+    "zh_cn": {
+      "fluid.omniworldessentials.molten_azurium": "»€»⁄±Ã¿∂",
+      "item.omniworldessentials.strawberry_candy": "ºŒ–ƒÃ«",
+      "block.omniworldessentials.azurium_block": "±Ã¿∂øÈ",
+      "item.omniworldessentials.azurium_plate": "±Ã¿∂∞Â",
+      "block.omniworldessentials.molten_azurium": "»€»⁄±Ã¿∂",
+      "itemGroup.tabomniworld_essentials": "Omniworld Essentials",
+      "item.omniworldessentials.azurium_gear": "±Ã¿∂≥›¬÷",
+      "item.omniworldessentials.creative_sword": "¥¥‘Ïƒ£ ΩΩ£",
+      "block.omniworldessentials.azurium_ore": "±Ã¿∂øÛ Ø",
+      "item.omniworldessentials.sunny_doll": "«ÁÃÏÕﬁÕﬁ",
+      "item.omniworldessentials.molten_azurium_bucket": "»€»⁄±Ã¿∂Õ∞",
+      "item.omniworldessentials.azurium_chunk": "±Ã¿∂øÛøÈ",
+      "item.omniworldessentials.azurium_nugget": "±Ã¿∂¡£",
+      "item.omniworldessentials.azurium_rod": "±Ã¿∂∞Ù",
+      "item.omniworldessentials.azurium_ingot": "±Ã¿∂∂ß"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "omniworldessentials",
+    "modName": "Omniworld Essentials",
+    "version": "1.0.0",
+    "author": "N Wither, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.nwitherkawaii.omniworldessentials",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}

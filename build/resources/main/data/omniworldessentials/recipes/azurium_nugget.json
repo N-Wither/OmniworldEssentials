@@ -1,0 +1,13 @@
+{
+  "group": "omniworldessentials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "omniworldessentials:azurium_ingot"
+    }
+  ],
+  "result": {
+    "item": "omniworldessentials:azurium_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omniworldessentials:blocks/azurium_block",
+    "up": "omniworldessentials:blocks/azurium_block",
+    "north": "omniworldessentials:blocks/azurium_block",
+    "east": "omniworldessentials:blocks/azurium_block",
+    "south": "omniworldessentials:blocks/azurium_block",
+    "west": "omniworldessentials:blocks/azurium_block",
+    "particle": "omniworldessentials:blocks/azurium_block"
+  }
+}

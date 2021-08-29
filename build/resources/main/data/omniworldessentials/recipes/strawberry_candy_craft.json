@@ -1,0 +1,22 @@
+{
+  "group": "omniworldessentials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:crops/strawberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "omniworldessentials:strawberry_candy",
+    "count": 1
+  }
+}
